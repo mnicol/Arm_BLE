@@ -1,3 +1,18 @@
+# PSoC Creator Files
+/Backup/
+/UART_to_BLE_peripheral.cydsn/codegentemp/
+/UART_to_BLE_peripheral.cydsn/CortexM0/
+/UART_to_BLE_peripheral.cydsn/Export/
+/UART_to_BLE_peripheral.cydsn/Generated_Source/
+/UART_to_BLE_peripheral.cydsn/*.cyfit
+
+*.cycdx
+*.ECE_STUDENT
+*.html
+*.rpt
+*.cyfit
+*.svd
+
 # Object files
 *.o
 *.ko
